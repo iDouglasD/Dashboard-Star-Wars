@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dashboard star wars" title="dashboard star wars" src=".github/logo.png" />
+  <img alt="dashboard star wars" title="dashboard star wars" src=".github/logo.png" width=25% />
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src="https://media.giphy.com/media/mQlQaLtezFBgfEoN7S/giphy.gif" width="100%">
+  <img alt="OriginSix" src="https://media.giphy.com/media/mQlQaLtezFBgfEoN7S/giphy.gif" width=80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Bibliotecas
 
 Utilitários
 
--[Feather.icon](https://feathericons.com/)
+- [Feather.icon](https://feathericons.com/)
 
 ## 💻 Projeto
 
@@ -43,6 +43,6 @@ O Dashboard Star Wars faz a requisição da API externa swapi.dev para obtençã
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/MTmILmnLdsmesAGyGTRvV4/star-wars?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://idouglasd.github.io/Dashboard_Star_Wars/).
 
 ---
