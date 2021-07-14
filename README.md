@@ -43,6 +43,6 @@ O Dashboard Star Wars faz a requisição da API externa swapi.dev para obtençã
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://idouglasd.github.io/Dashboard_Star_Wars/).
+Você pode visualizar o layout do projeto através [desse link](https://idouglasd.github.io/Dashboard-Star-Wars//).
 
 ---
